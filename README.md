@@ -1,12 +1,10 @@
-# PLATAFORMA DE DIVÓRCIO CONSENSUAL ON-LINE
-
 ## DIVÓRCIO CONSENSUAL
 ## (regidos pela lei brasileira)
 
 ### Escolha a opção entre divórcio judicial ou divórcio extra-judicial
 
-# DIVÓRCIO JUDICIAL
+## DIVÓRCIO JUDICIAL
 (No Judiciário, com Juiz de Direito)
 
 
-# DIVÓRCIO EXTRA-JUDICIAL
+## DIVÓRCIO EXTRA-JUDICIAL
