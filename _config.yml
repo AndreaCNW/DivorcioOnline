@@ -3,4 +3,5 @@ theme: jekyll-theme-cayman
 title: DIVÓRCIO CONSENSUAL
 description: PLATAFORMA DE DIVÓRCIO CONSENSUAL ON-LINE
 
-owner_name: Andrea
+github:
+  owner_name: Andrea CNW
