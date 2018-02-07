@@ -1,11 +1,7 @@
 ## DIVÓRCIO CONSENSUAL
 (regidos pela lei brasileira)
 
-### Escolha a opção entre divórcio judicial ou divórcio extra-judicial:
+### Clique aqui para iniciar a petição
 
-### [DIVÓRCIO JUDICIAL](judicial)
-(No Judiciário, com Juiz de Direito)
-
-
-
-### [DIVÓRCIO EXTRA-JUDICIAL](extra-judicial)
+## Testando
+[Documento do word](files/Estrutura para site de divorcio on-line.docx).
