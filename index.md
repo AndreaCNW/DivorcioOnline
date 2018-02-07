@@ -3,5 +3,6 @@
 
 ### [Clique aqui para iniciar a petição](https://docs.google.com/forms/d/e/1FAIpQLSerWPA8yx1kWnZk166FD44UO1FbQZjdYos_MZnbajPIFhBb_A/viewform?usp=sf_link)
 
-## Testando
-[Documento do word](https://github.com/rauldenisp/DivorcioOnline/raw/master/files/Estrutura%20para%20site%20de%20divorcio%20on-line.docx)
+[Formulario peticionamento inteligente divorcio consensual com filhos](https://github.com/rauldenisp/DivorcioOnline/raw/master/files/Formulario%20peticionamento%20inteligente%20divorcio%20consensual%20com%20filhos.doc)
+
+[Formulario peticionamento inteligente divorcio consensual sem filhos sem bens](https://github.com/rauldenisp/DivorcioOnline/raw/master/files/Formulario%20peticionamento%20inteligente%20divorcio%20consensual%20sem%20filhos%20sem%20bens.doc)
